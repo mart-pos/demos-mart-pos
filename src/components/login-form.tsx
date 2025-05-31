@@ -21,18 +21,18 @@ export function LoginForm({
                 <Image
                   src={"/logo-ligth.svg"}
                   alt="Logo"
-                  width={24}
-                  height={24}
-                  className="size-7 invert dark:invert-0 rounded-md object-cover"
+                  width={32}
+                  height={32}
+                  className="size-8 invert dark:invert-0 rounded-md object-cover"
                 />
               </div>
               <span className="sr-only">Mart POS</span>
             </a>
-            <h1 className="text-xl font-bold">Welcome to Mart POS</h1>
+            <h1 className="text-xl font-bold">Bienvenido a Mart POS</h1>
             <div className="text-center text-sm">
-              Don&apos;t have an account?{" "}
+              Aun no tienes una cuenta?{" "}
               <a href="#" className="underline underline-offset-4">
-                Sign up
+                Crear una cuenta
               </a>
             </div>
           </div>
@@ -47,12 +47,12 @@ export function LoginForm({
               />
             </div>
             <Button type="submit" className="w-full">
-              Login
+              Iniciar Seccion
             </Button>
           </div>
           <div className="after:border-border relative text-center text-sm after:absolute after:inset-0 after:top-1/2 after:z-0 after:flex after:items-center after:border-t">
             <span className="bg-background text-muted-foreground relative z-10 px-2">
-              Or
+              O
             </span>
           </div>
           <div className="grid gap-4 sm:grid-cols-2">
@@ -63,7 +63,7 @@ export function LoginForm({
                   fill="currentColor"
                 />
               </svg>
-              Continue with Apple
+              Continuar con Apple
             </Button>
             <Button variant="outline" type="button" className="w-full">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -72,14 +72,15 @@ export function LoginForm({
                   fill="currentColor"
                 />
               </svg>
-              Continue with Google
+              Continuar con Google
             </Button>
           </div>
         </div>
       </form>
       <div className="text-muted-foreground *:[a]:hover:text-primary text-center text-xs text-balance *:[a]:underline *:[a]:underline-offset-4">
-        By clicking continue, you agree to our <a href="#">Terms of Service</a>{" "}
-        and <a href="#">Privacy Policy</a>.
+        Al hacer clic en continuar, aceptas nuestros{" "}
+        <a href="#">Terminos y Condiciones</a> y{" "}
+        <a href="#">Politicas de Privacidad</a>.
       </div>
     </div>
   );
