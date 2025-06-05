@@ -1,0 +1,162 @@
+[
+  {
+    "id": "i1",
+    "business_id": "b1",
+    "name": "Inventario de Bebidas",
+    "status": true,
+    "created_at": "2025-06-01T08:00:00Z",
+    "updated_at": "2025-06-01T08:00:00Z"
+  },
+  {
+    "id": "i2",
+    "business_id": "b1",
+    "name": "Inventario de Alimentos",
+    "status": true,
+    "created_at": "2025-06-01T08:05:00Z",
+    "updated_at": "2025-06-01T08:05:00Z"
+  },
+  {
+    "id": "i3",
+    "business_id": "b1",
+    "name": "Inventario de Aseo",
+    "status": false,
+    "created_at": "2025-06-01T08:10:00Z",
+    "updated_at": "2025-06-01T08:10:00Z"
+  },
+  {
+    "id": "i4",
+    "business_id": "b1",
+    "name": "Inventario de Lácteos",
+    "status": true,
+    "created_at": "2025-06-01T08:15:00Z",
+    "updated_at": "2025-06-01T08:15:00Z"
+  },
+  {
+    "id": "i5",
+    "business_id": "b1",
+    "name": "Inventario de Carnes",
+    "status": true,
+    "created_at": "2025-06-01T08:20:00Z",
+    "updated_at": "2025-06-01T08:20:00Z"
+  },
+  {
+    "id": "i6",
+    "business_id": "b1",
+    "name": "Inventario de Frutas",
+    "status": true,
+    "created_at": "2025-06-01T08:25:00Z",
+    "updated_at": "2025-06-01T08:25:00Z"
+  },
+  {
+    "id": "i7",
+    "business_id": "b1",
+    "name": "Inventario de Verduras",
+    "status": false,
+    "created_at": "2025-06-01T08:30:00Z",
+    "updated_at": "2025-06-01T08:30:00Z"
+  },
+  {
+    "id": "i8",
+    "business_id": "b1",
+    "name": "Inventario de Congelados",
+    "status": true,
+    "created_at": "2025-06-01T08:35:00Z",
+    "updated_at": "2025-06-01T08:35:00Z"
+  },
+  {
+    "id": "i9",
+    "business_id": "b1",
+    "name": "Inventario de Panadería",
+    "status": true,
+    "created_at": "2025-06-01T08:40:00Z",
+    "updated_at": "2025-06-01T08:40:00Z"
+  },
+  {
+    "id": "i10",
+    "business_id": "b1",
+    "name": "Inventario de Snacks",
+    "status": true,
+    "created_at": "2025-06-01T08:45:00Z",
+    "updated_at": "2025-06-01T08:45:00Z"
+  },
+  {
+    "id": "i11",
+    "business_id": "b1",
+    "name": "Inventario de Enlatados",
+    "status": false,
+    "created_at": "2025-06-01T08:50:00Z",
+    "updated_at": "2025-06-01T08:50:00Z"
+  },
+  {
+    "id": "i12",
+    "business_id": "b1",
+    "name": "Inventario de Granos",
+    "status": true,
+    "created_at": "2025-06-01T08:55:00Z",
+    "updated_at": "2025-06-01T08:55:00Z"
+  },
+  {
+    "id": "i13",
+    "business_id": "b1",
+    "name": "Inventario de Pastas",
+    "status": true,
+    "created_at": "2025-06-01T09:00:00Z",
+    "updated_at": "2025-06-01T09:00:00Z"
+  },
+  {
+    "id": "i14",
+    "business_id": "b1",
+    "name": "Inventario de Cereales",
+    "status": false,
+    "created_at": "2025-06-01T09:05:00Z",
+    "updated_at": "2025-06-01T09:05:00Z"
+  },
+  {
+    "id": "i15",
+    "business_id": "b1",
+    "name": "Inventario de Higiene Personal",
+    "status": true,
+    "created_at": "2025-06-01T09:10:00Z",
+    "updated_at": "2025-06-01T09:10:00Z"
+  },
+  {
+    "id": "i16",
+    "business_id": "b1",
+    "name": "Inventario de Bebés",
+    "status": true,
+    "created_at": "2025-06-01T09:15:00Z",
+    "updated_at": "2025-06-01T09:15:00Z"
+  },
+  {
+    "id": "i17",
+    "business_id": "b1",
+    "name": "Inventario de Mascotas",
+    "status": false,
+    "created_at": "2025-06-01T09:20:00Z",
+    "updated_at": "2025-06-01T09:20:00Z"
+  },
+  {
+    "id": "i18",
+    "business_id": "b1",
+    "name": "Inventario de Farmacia",
+    "status": true,
+    "created_at": "2025-06-01T09:25:00Z",
+    "updated_at": "2025-06-01T09:25:00Z"
+  },
+  {
+    "id": "i19",
+    "business_id": "b1",
+    "name": "Inventario de Ferretería",
+    "status": true,
+    "created_at": "2025-06-01T09:30:00Z",
+    "updated_at": "2025-06-01T09:30:00Z"
+  },
+  {
+    "id": "i20",
+    "business_id": "b1",
+    "name": "Inventario de Temporada",
+    "status": true,
+    "created_at": "2025-06-01T09:35:00Z",
+    "updated_at": "2025-06-01T09:35:00Z"
+  }
+]
