@@ -252,14 +252,14 @@ export function DataTable({
       className="w-full flex-col justify-start gap-6"
     >
       <div className="flex items-center justify-between px-4 lg:px-6">
-        <Label>List of Inventories</Label>
+        <Label>Tabla</Label>
         <div className="flex items-center gap-2">
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
               <Button variant="outline" size="sm">
                 <IconLayoutColumns />
-                <span className="hidden lg:inline">Customize Columns</span>
-                <span className="lg:hidden">Columns</span>
+                <span className="hidden lg:inline">Perzonalizar Columnas</span>
+                <span className="lg:hidden">Columnas</span>
                 <IconChevronDown />
               </Button>
             </DropdownMenuTrigger>
@@ -289,7 +289,7 @@ export function DataTable({
           </DropdownMenu>
           <Button size="sm">
             <IconPlus />
-            Create Inventory
+            Crear
           </Button>
         </div>
       </div>

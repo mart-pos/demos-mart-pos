@@ -25,6 +25,12 @@ export default function Home() {
         <Link href="/login" className="text-blue-500 hover:underline">
           Login
         </Link>
+        <Link href="/inventories" className="text-blue-500 hover:underline">
+          Inventories
+        </Link>
+        <Link href="/cash-registers" className="text-blue-500 hover:underline">
+          Cash Registers
+        </Link>
       </div>
     </div>
   );

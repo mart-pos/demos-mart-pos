@@ -1,0 +1,42 @@
+[
+  {
+    "id": "i1",
+    "business_id": "b1",
+    "name": "Caja Pricipal",
+    "status": true,
+    "created_at": "2025-06-01T08:00:00Z",
+    "updated_at": "2025-06-01T08:00:00Z"
+  },
+  {
+    "id": "i2",
+    "business_id": "b1",
+    "name": "Caja 2",
+    "status": true,
+    "created_at": "2025-06-01T08:05:00Z",
+    "updated_at": "2025-06-01T08:05:00Z"
+  },
+  {
+    "id": "i3",
+    "business_id": "b1",
+    "name": "Caja 3",
+    "status": false,
+    "created_at": "2025-06-01T08:10:00Z",
+    "updated_at": "2025-06-01T08:10:00Z"
+  },
+  {
+    "id": "i4",
+    "business_id": "b1",
+    "name": "Caja 4",
+    "status": true,
+    "created_at": "2025-06-01T08:15:00Z",
+    "updated_at": "2025-06-01T08:15:00Z"
+  },
+  {
+    "id": "i5",
+    "business_id": "b1",
+    "name": "Caja 5",
+    "status": true,
+    "created_at": "2025-06-01T08:20:00Z",
+    "updated_at": "2025-06-01T08:20:00Z"
+  }
+]
